@@ -1,6 +1,6 @@
-## Hi there 👋 It´s Uriel
+## Hi there 👋 It´s Uriel 👨‍💻
 
-🌱 I’m a Junior Data Scientist with a background in Biomedical Engenieering, I'm currently learning about Data Science and Machine Learning with Python. I use to work with Python, Pandas, NumPy, Stadistical Analysis and Scikit-learn. Passionate about continuous learning and solving real-world problems.
+🌱 I’m a Junior Data Scientist with a background in Biomedical Engenieering, I'm currently learning about Data Science and Machine Learning. I use to work with Python, Pandas, NumPy, Stadistical Analysis and Scikit-learn. Passionate about continuous learning and solving real-world problems.
 
 <!--
 **UAlonsoR/UAlonsoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
