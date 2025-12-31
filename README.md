@@ -1,7 +1,6 @@
 ## Hi there 👋 It´s Uriel 👨‍💻
 
-🌱 I’m a Junior Data Scientist with a background in Biomedical Engenieering, I'm currently learning about Data Science and Machine Learning. I use to work with Python, Pandas, NumPy, Stadistical Analysis and Scikit-learn. Passionate about continuous learning and solving real-world problems.
-
+🌱 I am a Junior Data Scientist with a background in Biomedical Engineering, driven by a strong interest in applying data-driven solutions to real-world problems, particularly in healthcare and technology. I am currently developing my skills in Data Science and Machine Learning, working with Python and key libraries such as Pandas, NumPy, and scikit-learn, along with statistical analysis techniques. I am passionate about continuous learning, adaptability, and transforming data into actionable insights that support better decision-making.
 <!--
 **UAlonsoR/UAlonsoR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
